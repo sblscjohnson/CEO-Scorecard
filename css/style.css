@@ -1,0 +1,169 @@
+html {
+  background-color: #A4FEED;
+}
+
+
+body {
+
+  background-color: #FFFFFF;
+  margin: 2%;
+}
+
+.main-header {
+  font-family: Georgia, Courier, monospace;
+  color: black;
+  font-size: 32px;
+  text-align: left;
+}
+
+tr {
+  border: 2px solid black;
+}
+
+#navbar {
+  background-color: #ABABAB;
+  padding-top: .5%;
+
+}
+
+#navbar ul{
+  list-style: none;
+  text-align: right;
+  padding-right: 10%;
+}
+
+#navbar li{
+  display: inline;
+}
+
+#navbar a{
+  font-family: monospace;
+  font-size: 28px;
+  text-decoration: none;
+  padding-left: 3%;
+  color: black;
+
+}
+
+.about {
+  font-family: Georgia, Courier, monospace;
+  text-align: center;
+}
+
+.pictures {
+  display: block;
+  margin-left: 21%;
+  margin-right: auto;
+}
+
+.pictures img{
+  height: auto;
+  width: 400px;
+  display: inline;
+}
+
+.newsletter h2, form{
+  width: 40%;
+  font-family: monospace;
+  font-size: 24px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+input {
+  width: 200px;
+}
+
+footer {
+  color: black;
+  padding-top: 5%;
+  font-size: 16px;
+  text-align: center;
+}
+
+.ceos {
+  display: block;
+
+}
+
+table, thead, tbody {
+  margin-left: 18%;
+}
+
+th, td{
+  border: 1px solid black;
+}
+
+.princeton {
+  background-color: #FF8F00;
+  color: white;
+  text-align: center;
+}
+
+.harvard {
+  background-color: #A41034;
+  color: white;
+  text-align: center;
+}
+
+.upenn {
+  background-color: #01256E;
+  color: white;
+  text-align: center;
+}
+
+.stanford {
+  background-color: #8C1515;
+  color: white;
+  text-align: center;
+}
+
+.michigan {
+  background-color: #00274C;
+  color: white;
+  text-align: center;
+}
+
+.maryland {
+  background-color: #E03A3E;
+  color: white;
+  text-align: center;
+}
+
+.bowdoin {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.risd {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.name a {
+  text-decoration: none;
+  color: black;
+}
+
+.image img {
+  height: 200px;
+}
+
+.companies {
+  display: block;
+
+}
+
+.companies table {
+ width: 90%;
+}
+
+#not p {
+  font-family: Georgia, Courier, monospace;
+  color: black;
+  text-align: center;
+}
